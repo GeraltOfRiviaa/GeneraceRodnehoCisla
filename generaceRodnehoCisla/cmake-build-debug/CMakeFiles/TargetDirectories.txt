@@ -1,0 +1,3 @@
+C:/studenti/it2p1/generaceRodnehoCisla/cmake-build-debug/CMakeFiles/generaceRodnehoCisla.dir
+C:/studenti/it2p1/generaceRodnehoCisla/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/studenti/it2p1/generaceRodnehoCisla/cmake-build-debug/CMakeFiles/rebuild_cache.dir
